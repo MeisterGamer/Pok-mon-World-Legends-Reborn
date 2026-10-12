@@ -1,0 +1,6 @@
+{
+  "name": "Pokémon World Legends - Dex & Stat Explorer",
+  "description": "Modern, high-performance Pokémon stats browser and team builder featuring multi-language support, advanced filtering, stat comparisons, and type coverage analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
